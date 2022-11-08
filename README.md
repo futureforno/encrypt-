@@ -14,7 +14,7 @@
 
 首先生成一个秘钥，接下来就开始愉快的聊天吧！
 
-下载：https://github.com/futureforno/encrypt-/raw/main/%E6%96%87%E6%9C%AC%E5%8A%A0%E5%AF%86%E5%99%A8.exe
+下载：https://github.com/futureforno/encrypt-/raw/main/%E6%96%87%E6%9C%AC%E5%8A%A0%E5%AF%86%E5%99%A8.exe  
 
 # 加密模式 
 
