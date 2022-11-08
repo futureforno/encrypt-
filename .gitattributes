@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
 *.cs linguist-language=C++
 *.ico linguist-language=c++
+*.exe linguist-language=c++
 
