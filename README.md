@@ -8,6 +8,7 @@
 
 #软件截图   
 
-嘿嘿  
+##中文加密模式  
+![](https://raw.githubusercontent.com/futureforno/encrypt-/main/pics/20221108165232.png)
 
  
